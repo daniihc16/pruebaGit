@@ -1,2 +1,5 @@
 Esto es un archivo de prueba para probar git
 Este es el archivo 1
+
+Esto es un archivo de prueba para probar git
+Este es el archivo 1
